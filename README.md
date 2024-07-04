@@ -1,0 +1,1 @@
+This is code for multiple diseases prediction using KNN.
